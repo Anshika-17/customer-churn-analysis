@@ -3,6 +3,8 @@
 ## Objective
 To analyze customer behavior and identify factors contributing to churn, enabling data-driven retention strategies.
 
+🔗 **Live App:** https://customer-churn-analysis-f6tlwacuchfdte6wr9gs7c.streamlit.app/
+
 ## Tools Used
 - Python
 - Pandas
